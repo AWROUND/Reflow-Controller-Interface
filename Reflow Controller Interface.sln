@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflow Controller Interface", "Reflow Controller Interface\Reflow Controller Interface.csproj", "{8A7D093C-29C7-4F14-9233-C407FDA8D63A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsbHid", "..\UsbHid\UsbHid.csproj", "{83BC9702-4192-4654-B359-14CBD71D656E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8A7D093C-29C7-4F14-9233-C407FDA8D63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A7D093C-29C7-4F14-9233-C407FDA8D63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A7D093C-29C7-4F14-9233-C407FDA8D63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83BC9702-4192-4654-B359-14CBD71D656E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BC9702-4192-4654-B359-14CBD71D656E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83BC9702-4192-4654-B359-14CBD71D656E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83BC9702-4192-4654-B359-14CBD71D656E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
